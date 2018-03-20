@@ -19,7 +19,7 @@ Author
 
 Other templates
 ---------------
-<a href="https://www.themesine.com/downloads/tournest-tours-travel-agency-html5-template/" target="_blank">TourNest tours/travel agency responsive HTML5 template</a>
+<a href="https://www.themesine.com/downloads/tournest-tours-travel-agency-html5-template/" target="_blank">TourNest - tours/travel agency responsive HTML5 template</a>
 
 Credits:
 -----------------------
