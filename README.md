@@ -1,5 +1,5 @@
 DashLoon – Bootstrap Admin Dashboard Template
--------------------------------------------------<br>
+-------------------------------------------------
 
 <a href="https://www.themesine.com/downloads/dashloon-bootstrap-admin-dashboard/" target="_blank">Preview Link</a>
 
